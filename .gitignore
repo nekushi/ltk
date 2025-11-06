@@ -42,3 +42,7 @@ next-env.d.ts
 
 # code timeline, code details
 notes.txt
+
+# added
+prisma/seed.ts
+/app/generated/prisma
