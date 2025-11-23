@@ -1,6 +1,6 @@
 # LTK Food Company
 
-Date Started: **November 23, 2025**
+Date Started: **November 23, 2025**\
 Date Ended: _??_
 
 ## Description
